@@ -1,11 +1,20 @@
 body {
-  width: 375px;
-  font-family: ;
+  margin-left: auto;
+  margin-right: auto;
+  width: 320px;
+  font-family: Roboto;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
   line-height: 1, 2;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04em;
+  color: black;
+
+  text-align-last: auto;
+
+  background-image: url(../imegin/img.jpg);
+  background-repeat: no-repeat;
+  background-position: 50%;
 }
 .title {
   font-size: 18px;
