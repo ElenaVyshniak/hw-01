@@ -25,7 +25,7 @@ body {
   padding: 0 10px;
 
   width: 268px;
-  height: 615px;
+  height: 815px;
   flex-shrink: 0;
 }
 
@@ -43,3 +43,9 @@ body {
   overflow-clip-margin: content-box;
   overflow: clip;
 }
+
+/* .footer { 
+  width: 267px;
+  height: 60px;
+  flex-shrink: 0;
+} */
