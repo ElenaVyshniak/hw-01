@@ -1,14 +1,7 @@
 body {
-  margin: 0 16px;
-  padding: 0 10px;
-
-  width: 268px;
-  height: 664px;
-  flex-shrink: 0;
-
   font-family: Montserrat;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: 1.2;
@@ -22,10 +15,24 @@ body {
   justify-content: center;
   align-items: flex-start;
 
-  background-image: url(../imegin/img.jpg);
-  background: url(../imegin/img.jpg);
+  background-image: url(../imegin/img1.jpg);
+  background: url(../imegin/img1.jpg);
   background-position: auto;
+  background-repeat: no-repeat;
 }
+.direct {
+  margin: 0 16px;
+  padding: 0 10px;
+
+  width: 268px;
+  height: 664px;
+  flex-shrink: 0;
+}
+
+.desk {
+  font-size: 12px;
+}
+
 .title {
   font-size: 16px;
   text-align: center;
